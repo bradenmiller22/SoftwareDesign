@@ -25,7 +25,7 @@ Implement a `Matrix` class to represent and manipulate mathematical matrices. Th
 - Contains 12 JUnit tests to verify correctness of all operations
 
 ## UML Diagram
-![UML](https://github.com/bradenmiller22/SoftwareDesign/blob/main/oral_exam1/Matrix/doc/Matrix.png)
+![UML](https://github.com/bradenmiller22/SoftwareDesign/blob/main/Matrix/doc/Matrix.png)
 
 ## Java Docs
 [View Java Docs](http://localhost:8000/bmiller38_swd)
@@ -43,4 +43,4 @@ Implement a `Matrix` class to represent and manipulate mathematical matrices. Th
 3. Confirm all 12 JUnit tests pass
 
 ## Source Code
-[View Code](https://github.com/bradenmiller22/SoftwareDesign/blob/main/oral_exam1/Matrix/src)
+[View Code](https://github.com/bradenmiller22/SoftwareDesign/tree/main/Matrix/src)
