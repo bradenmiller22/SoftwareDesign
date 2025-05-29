@@ -13,7 +13,7 @@ This repository showcases Java projects created for the Software Design course a
   ➤ A classroom simulation using inheritance and composition with `Person`, `Teacher`, `Student`, and `Classroom` classes.
 
 ### 🧪 Oral Exam 1
-- [Matrix](./Matrix/README.md)  
+- [Matrix](./Matrix/)  
   ➤ A custom matrix manipulation library supporting arithmetic operations and submatrix extraction with unit testing.
 
 - [Electoral College Simulator](./ElectoralCollege/README.md)  
