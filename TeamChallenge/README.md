@@ -88,7 +88,7 @@ This project is a **multiplayer Connect 4 game** developed as part of a 48-hour 
 
 ### UML Diagram
 
-![Connect4 UML](https://github.com/bradenmiller22/SoftwareDesign/blob/main/TeamChallenge/doc/Connect4UML.png)
+![Connect4 UML](https://github.com/bradenmiller22/SoftwareDesign/blob/main/TeamChallenge/docs/UML_diagram.png)
 
 ## 🏁 Notes
 
