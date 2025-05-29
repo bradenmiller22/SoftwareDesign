@@ -59,11 +59,15 @@ This project is a **multiplayer Connect 4 game** developed as part of a 48-hour 
 
 ### Compile & Launch
 
-1. Change the port in 
+1. Check the port/IP Address of your machine, and update if needed in Server.java and ClientTest.java
 2. Compile all files: javac *.java
 3. Run the server: java Server
 4. Run each client (on different terminals or machines): java ClientTest
 
+> ⚠️ **IMPORTANT:** If running on multiple machines, make sure to:
+> - Update the **IP address** and **port** in `Client.java` to match the server machine  
+> - Ensure firewall settings allow traffic through the selected port  
+> - Run all clients **after** starting the server
 
 > The **first client to connect** becomes the lobby leader and can set the grid and win conditions.
 
@@ -75,14 +79,17 @@ This project is a **multiplayer Connect 4 game** developed as part of a 48-hour 
 - Chat becomes available in the **post-game screen**
 
 ## 📄 Documentation
-- [👨‍💻 Developer’s Guide](../Connect%204%20Project%20-%20Developer's%20Guide.pdf)  
-- [📘 User’s Guide](../Connect%204%20Project%20-%20User's%20Guide.pdf)  
-- [📊 Executive Summary](../Connect%204%20Project%20-%20Executive%20Summary.pdf)  
+- [👨‍💻 Developer’s Guide](./Connect%204%20Project%20-%20Developer's%20Guide.pdf)  
+- [📘 User’s Guide](./TeamChallenge/UserGuide)  
+- [📊 Executive Summary](./Connect%204%20Project%20-%20Executive%20Summary.pdf)  
 
+## 📸 Screenshots
 
 ### UML Diagram
 
 ![Connect4 UML](https://github.com/bradenmiller22/SoftwareDesign/blob/main/TeamChallenge/doc/Connect4UML.png)
+
+> _You can add gameplay screenshots here later by uploading images to the `/doc` folder and linking them above._
 
 ## 🏁 Notes
 
@@ -91,4 +98,6 @@ This project is a **multiplayer Connect 4 game** developed as part of a 48-hour 
 - Built in under **48 hours** as a team sprint challenge.  
 - Tested locally with multiple clients; server handles all turn-order logic and win validation.
 
+## 📬 Contact
+- [Braden Miller](https://github.com/bradenmiller22)
 
