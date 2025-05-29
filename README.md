@@ -39,5 +39,5 @@ This repository showcases Java projects created for the Software Design course a
 - [Base Change GUI](./extra_credit/BaseChange/)  
   ➤ A JavaFX GUI to convert numbers between bases 2, 8, 10, and 16 with input validation and dropdown menus.
 
-- [Twister Game GUI](./extra_credit/Twister/)  
+- [Twister Game GUI](./extra_credit/TwisterMedium/)  
   ➤ A Java Swing simulation of the Twister game spinner with color display and optional bias mode for harder moves.
