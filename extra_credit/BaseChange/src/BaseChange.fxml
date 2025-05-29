@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane hgap="5.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="229.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BaseChangeController">
+  <columnConstraints>
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="205.0" minWidth="10.0" prefWidth="205.0" />
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="189.0" minWidth="10.0" prefWidth="137.0" />
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="252.0" minWidth="10.0" prefWidth="252.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints maxHeight="250.0" minHeight="10.0" prefHeight="20.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <TextField fx:id="textField" maxWidth="200.0" prefHeight="41.0" prefWidth="200.0" promptText="Enter Number" GridPane.halignment="CENTER" GridPane.valignment="CENTER">
+         <GridPane.margin>
+            <Insets bottom="75.0" />
+         </GridPane.margin>
+      </TextField>
+      <ComboBox fx:id="currentBase" prefHeight="41.0" prefWidth="200.0" promptText="Select Base" visibleRowCount="4" GridPane.halignment="CENTER" GridPane.valignment="CENTER">
+         <GridPane.margin>
+            <Insets top="75.0" />
+         </GridPane.margin>
+      </ComboBox>
+      <Button fx:id="submitButton" mnemonicParsing="false" onAction="#buttonPressed" prefHeight="41.0" prefWidth="130.0" text="Convert" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="CENTER">
+         <GridPane.margin>
+            <Insets top="75.0" />
+         </GridPane.margin>
+      </Button>
+      <ComboBox fx:id="desiredBase" prefHeight="41.0" prefWidth="130.0" promptText="Select Base" visibleRowCount="4" GridPane.columnIndex="1" GridPane.halignment="CENTER">
+         <GridPane.margin>
+            <Insets bottom="75.0" />
+         </GridPane.margin>
+      </ComboBox>
+      <TextField fx:id="outputField" editable="false" maxWidth="248.0" prefHeight="41.0" prefWidth="220.0" promptText="Output" GridPane.columnIndex="2" GridPane.halignment="CENTER" />
+      <Label prefHeight="24.0" prefWidth="200.0" text="Current Base">
+         <GridPane.margin>
+            <Insets left="3.0" top="12.0" />
+         </GridPane.margin>
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label prefHeight="24.0" prefWidth="200.0" text="Desired Base" GridPane.columnIndex="1" GridPane.valignment="TOP">
+         <font>
+            <Font size="16.0" />
+         </font>
+         <GridPane.margin>
+            <Insets left="3.0" top="36.0" />
+         </GridPane.margin>
+      </Label>
+   </children>
+</GridPane>
