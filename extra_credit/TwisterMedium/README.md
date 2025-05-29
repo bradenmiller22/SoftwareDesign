@@ -27,7 +27,7 @@ Implement a Twister Game Simulator using Java Swing. The GUI features a spinner 
 - Launches the GUI by creating a `Twister` instance
 
 ## UML Diagram
-![UML]()
+![UML](https://github.com/bradenmiller22/SoftwareDesign/blob/main/extra_credit/TwisterMedium/doc/TwisterUML.png)
 
 ## Java Docs
 [View Java Docs](http://localhost:8000/bmiller38_swd)
@@ -44,4 +44,4 @@ Implement a Twister Game Simulator using Java Swing. The GUI features a spinner 
 3. Press `B` on your keyboard to toggle bias mode on or off
 
 ## Source Code
-[View Code]()
+[View Code](https://github.com/bradenmiller22/SoftwareDesign/tree/main/extra_credit/TwisterMedium/src)
