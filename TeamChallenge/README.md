@@ -79,17 +79,16 @@ This project is a **multiplayer Connect 4 game** developed as part of a 48-hour 
 - Chat becomes available in the **post-game screen**
 
 ## 📄 Documentation
-- [👨‍💻 Developer’s Guide](./Connect%204%20Project%20-%20Developer's%20Guide.pdf)  
-- [📘 User’s Guide](./TeamChallenge/UserGuide)  
-- [📊 Executive Summary](./Connect%204%20Project%20-%20Executive%20Summary.pdf)  
+- [Connect 4 Project - Developer's Guide.pdf](./Connect%204%20Project%20-%20Developer's%20Guide.pdf)  
+- [Connect 4 Project - User's Guide.pdf](./Connect%204%20Project%20-%20User's%20Guide.pdf)  
+- [Connect 4 Project - Executive Summary.pdf](./Connect%204%20Project%20-%20Executive%20Summary.pdf)  
+
 
 ## 📸 Screenshots
 
 ### UML Diagram
 
 ![Connect4 UML](https://github.com/bradenmiller22/SoftwareDesign/blob/main/TeamChallenge/doc/Connect4UML.png)
-
-> _You can add gameplay screenshots here later by uploading images to the `/doc` folder and linking them above._
 
 ## 🏁 Notes
 
