@@ -8,6 +8,12 @@ This repository showcases Java projects created for the Software Design course a
 
 ## 📚 Projects
 
+### 🧩 Team Challenge – Multiplayer Connect 4
+- [TeamChallenge](./TeamChallenge/README.md)  
+  ➤ A full-featured 2–4 player **networked Connect 4 game** built in just 48 hours as part of a course-wide team sprint.  
+  This project includes a live lobby, customizable board sizes, animated chip drops, spectator mode, a post-game leaderboard, and a real-time chat system.  
+  It earned **1st place out of 18 teams** and demonstrates advanced multithreading, client-server communication, and polished GUI design using Java Swing.
+
 ### 🏫 Homework 0
 - [HW0_ElementarySchool](./homework0/)  
   ➤ A classroom simulation using inheritance and composition with `Person`, `Teacher`, `Student`, and `Classroom` classes.
