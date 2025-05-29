@@ -26,7 +26,7 @@ Implement a JavaFX-based GUI program that converts numbers between base 2, 8, 10
 - Launches the JavaFX application
 
 ## UML Diagram
-![UML](https://github.com/bradenmiller22/SoftwareDesign/blob/main/BaseChange/doc/BaseChangeUML.png)
+![UML](https://github.com/bradenmiller22/SoftwareDesign/blob/main/extra_credit/BaseChange/doc/BaseChangeUML.png)
 
 ## Java Docs
 [View Java Docs](http://localhost:8000/bmiller38_swd)
@@ -43,4 +43,4 @@ Implement a JavaFX-based GUI program that converts numbers between base 2, 8, 10
 3. Click the convert button to see the result
 
 ## Source Code
-[View Code](https://github.com/bradenmiller22/SoftwareDesign/tree/main/BaseChange/src)
+[View Code](https://github.com/bradenmiller22/SoftwareDesign/tree/main/extra_credit/BaseChange/src)
