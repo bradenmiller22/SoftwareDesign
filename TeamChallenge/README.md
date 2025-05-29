@@ -84,7 +84,10 @@ This project is a **multiplayer Connect 4 game** developed as part of a 48-hour 
 - [Connect 4 Project - Executive Summary.pdf](./Connect%204%20Project%20-%20Executive%20Summary.pdf)  
 
 
-## 📸 Screenshots
+## 🎥 Demo Video
+
+Download and watch the demo video:
+[SWDProjectVideo.mp4](./docs/SWDProjectVideo.mp4)
 
 ### UML Diagram
 
